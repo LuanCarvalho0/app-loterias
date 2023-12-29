@@ -1,9 +1,9 @@
 # App-Loterias
 
 ![Badge Concluído](https://img.shields.io/static/v1?label=Status&message=Concluído&color=success&style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/LuanCarvalho0/app-loterias?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/LuanCarvalho0/app-loterias?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/LuanCarvalho0/app-loterias?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/luancarvalho0/app-loterias?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/luancarvalho0/app-loterias?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/luancarvalho0/app-loterias?style=for-the-badge)
 
 
 <img src="./img/tela.png" alt="imagem da tela principal">
